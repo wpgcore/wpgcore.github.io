@@ -1,0 +1,150 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc66               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc67               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc68               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc69               { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc70               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc71               { /* Common */
+	font            : 16pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc72               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc73               { /* Common */
+	clip            : rect(0.00pt,11.25pt,11.25pt,0.00pt);
+	}
+.cc74               { /* Common */
+	font            : 10pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+span#e14            { /* w_core_sept-2012027007.g... */
+	background      : transparent url(w_core_sept-2012027007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 257.25pt;
+	width           : 157.50pt;
+	height          :  78.75pt;
+	}
+div#e13             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 270.75pt;
+	top             : 436.50pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e12             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 379.50pt;
+	top             : 463.50pt;
+	width           : 186.00pt;
+	height          :   9.75pt;
+	}
+span#e11            { /* top_header_core1_copy.jp... */
+	background      : transparent url(top_header_core1_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 245.25pt;
+	}
+span#e10            { /* w_core_sept-2012027006.g... */
+	background      : transparent url(w_core_sept-2012027006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 244.50pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e9             { /* w_core_sept-2012027005.g... */
+	background      : transparent url(w_core_sept-2012027005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 165.75pt;
+	top             :   7.50pt;
+	width           : 553.50pt;
+	height          :  22.50pt;
+	}
+div#e8              { /* Youth Ambassador Members */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 267.00pt;
+	width           : 124.50pt;
+	height          :  54.00pt;
+	}
+span#e7             { /* w_core_sept-2012027004.g... */
+	background      : transparent url(w_core_sept-2012027004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 257.25pt;
+	width           : 511.50pt;
+	height          : 176.25pt;
+	}
+div#e6              { /* Currently Offline Please... */
+	position        : absolute;
+	left            : 425.25pt;
+	top             : 321.75pt;
+	width           : 248.25pt;
+	height          :  26.25pt;
+	}
+span#e5             { /* w_core_sept-2012009003.j... */
+	background      : transparent url(w_core_sept-2012009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 348.00pt;
+	top             : 298.50pt;
+	width           :  60.00pt;
+	height          :  58.50pt;
+	}
+span#e4             { /* w_core_sept-2012027003.j... */
+	background      : transparent url(w_core_sept-2012027003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 432.00pt;
+	top             : 343.50pt;
+	width           :  11.25pt;
+	height          :  11.25pt;
+	}
+div#e3              { /* AmbassadorsList.pdf */
+	position        : absolute;
+	left            : 443.25pt;
+	top             : 341.25pt;
+	width           : 105.75pt;
+	height          :  14.25pt;
+	}
+img#e2              { /* w_core_sept-2012027002.j... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :   8.25pt;
+	width           :  66.75pt;
+	height          :  19.50pt;
+	}
+img#e1              { /* w_core_sept-2012027001.j... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

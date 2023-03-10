@@ -1,0 +1,266 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc250              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc251              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc252              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc253              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc254              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc255              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc256              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc257              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+span#e31            { /* w_core_sept-2012039010.g... */
+	background      : transparent url(w_core_sept-2012039010.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  38.25pt;
+	width           : 157.50pt;
+	height          : 411.00pt;
+	}
+div#e30             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 249.75pt;
+	top             : 451.50pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e29             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 358.50pt;
+	top             : 483.75pt;
+	width           : 186.00pt;
+	height          :  14.25pt;
+	}
+span#e28            { /* w_core_sept-2012039009.g... */
+	background      : transparent url(w_core_sept-2012039009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 181.50pt;
+	top             :  36.00pt;
+	width           : 540.75pt;
+	height          : 413.25pt;
+	}
+span#e27            { /* w_core_sept-2012039008.g... */
+	background      : transparent url(w_core_sept-2012039008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+img#e26             { /* w_core_sept-2012039007.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+span#e25            { /* w_core_sept-2012001016.j... */
+	background      : transparent url(w_core_sept-2012001016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 143.25pt;
+	top             :  39.00pt;
+	width           :  33.00pt;
+	height          :  30.00pt;
+	}
+div#e24             { /* Volunteer Coordinator */
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  72.00pt;
+	width           : 132.00pt;
+	height          :  14.25pt;
+	}
+div#e23             { /* (Volunteer) */
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  86.25pt;
+	width           :  64.50pt;
+	height          :  14.25pt;
+	}
+div#e22             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 100.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e21             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 114.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e20             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 127.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e19             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 141.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e18             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 154.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e17             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 168.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e16             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 181.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e15             {
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 195.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+span#e14            { /* w_core_sept-2012039006.j... */
+	background      : transparent url(w_core_sept-2012039006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 188.25pt;
+	width           : 154.50pt;
+	height          : 116.25pt;
+	}
+img#e13             { /* w_core_sept-2012039005.g... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             :   7.50pt;
+	width           :  72.75pt;
+	height          :  22.50pt;
+	}
+div#e12             { /* <FONT size=4><STRONG>Vol... */
+	position        : absolute;
+	left            : 190.50pt;
+	top             :  58.50pt;
+	width           : 521.25pt;
+	height          :  50.25pt;
+	}
+div#e11             { /* <STRONG>Specific duties ... */
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 114.75pt;
+	width           : 525.00pt;
+	height          :  89.25pt;
+	}
+div#e10             { /* &nbsp;&nbsp; together in... */
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 196.50pt;
+	width           : 515.25pt;
+	height          :  34.50pt;
+	}
+div#e9              { /* <STRONG>Qualities:</STRO... */
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 237.00pt;
+	width           : 497.25pt;
+	height          :  62.25pt;
+	}
+div#e8              {
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 305.25pt;
+	width           : 521.25pt;
+	height          :  13.50pt;
+	}
+div#e7              {
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 318.75pt;
+	width           : 521.25pt;
+	height          :  13.50pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 332.25pt;
+	width           : 521.25pt;
+	height          :  13.50pt;
+	}
+span#e5             { /* w_core_sept-2012039004.g... */
+	background      : transparent url(w_core_sept-2012039004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  27.00pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e4             { /* w_core_sept-2012039003.j... */
+	background      : transparent url(w_core_sept-2012039003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 141.75pt;
+	width           : 102.00pt;
+	height          :  76.50pt;
+	}
+img#e3              { /* w_core_sept-2012039002.j... */
+	position        : absolute;
+	left            : 180.00pt;
+	top             :   1.50pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+span#e2             { /* w_core_sept-2012039001.g... */
+	background      : transparent url(w_core_sept-2012039001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 444.75pt;
+	top             :   8.25pt;
+	width           :  96.00pt;
+	height          :  18.75pt;
+	}
+img#e1              { /* email_us_button.gif */
+	position        : absolute;
+	left            : 396.75pt;
+	top             : 406.50pt;
+	width           : 119.25pt;
+	height          :  40.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,208 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc335              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc336              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc337              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc338              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc339              { /* Common */
+	font            : 16pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc340              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc341              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc342              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+span#e23            { /* w_core_sept-2012008005.g... */
+	background      : transparent url(w_core_sept-2012008005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 256.50pt;
+	width           : 157.50pt;
+	height          :  43.50pt;
+	}
+div#e22             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 497.25pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e21             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 378.75pt;
+	top             : 528.00pt;
+	width           : 186.00pt;
+	height          :  17.25pt;
+	}
+span#e20            { /* top_header_core1_copy.jp... */
+	background      : transparent url(top_header_core1_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 245.25pt;
+	}
+span#e19            { /* w_core_sept-2012008004.g... */
+	background      : transparent url(w_core_sept-2012008004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 244.50pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+div#e18             { /* Contact Us */
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 267.00pt;
+	width           : 124.50pt;
+	height          :  18.00pt;
+	}
+span#e17            { /* index035001.gif */
+	background      : transparent url(index035001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 256.50pt;
+	width           : 513.75pt;
+	height          : 238.50pt;
+	}
+span#e16            { /* w_core_sept-2012008002.g... */
+	background      : transparent url(w_core_sept-2012008002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+div#e15             { /* General Inquiries: */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 263.25pt;
+	width           : 102.75pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* <A href="mailto:info@win... */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 277.50pt;
+	width           : 197.25pt;
+	height          :  21.00pt;
+	}
+div#e13             {
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 291.00pt;
+	width           : 462.75pt;
+	height          :  13.50pt;
+	}
+div#e12             { /* President */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 304.50pt;
+	width           :  56.25pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* George Toth */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 318.75pt;
+	width           : 462.75pt;
+	height          :  13.50pt;
+	}
+div#e10             { /* <A href="mailto:george.t... */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 332.25pt;
+	width           : 237.75pt;
+	height          :  21.00pt;
+	}
+div#e9              { /* Vice-President */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 350.25pt;
+	width           :  84.75pt;
+	height          :  14.25pt;
+	}
+div#e8              { /* Rob Spewak */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 364.50pt;
+	width           : 462.75pt;
+	height          :  13.50pt;
+	}
+div#e7              { /* <A href="mailto:rob.spew... */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 378.00pt;
+	width           : 239.25pt;
+	height          :  21.00pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 387.00pt;
+	width           : 462.75pt;
+	height          :  13.50pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 400.50pt;
+	width           : 462.75pt;
+	height          :  13.50pt;
+	}
+img#e4              { /* w_core_sept-2012008001.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e3              { /* Secretary */
+	position        : absolute;
+	left            : 227.25pt;
+	top             : 400.50pt;
+	width           :  84.75pt;
+	height          :  32.25pt;
+	}
+div#e2              { /* Walt Nilsson */
+	position        : absolute;
+	left            : 228.75pt;
+	top             : 414.75pt;
+	width           : 462.75pt;
+	height          :  16.50pt;
+	}
+div#e1              { /* <A href="mailto:walt.nil... */
+	position        : absolute;
+	left            : 229.50pt;
+	top             : 428.25pt;
+	width           : 239.25pt;
+	height          :  21.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

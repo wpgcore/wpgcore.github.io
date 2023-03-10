@@ -1,0 +1,169 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc25               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc26               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc27               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc28               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc29               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc30               { /* Common */
+	border          :   0.00pt none #000080;
+	}
+.cc31               { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc32               { /* Common */
+	font            : bold 10pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+span#e17            { /* w_core_sept-2012023010.g... */
+	background      : transparent url(w_core_sept-2012023010.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.75pt;
+	top             :  44.25pt;
+	width           : 691.50pt;
+	height          : 956.25pt;
+	}
+div#e16             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 161.25pt;
+	top             : 936.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e15             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 955.50pt;
+	width           : 186.00pt;
+	height          :   9.75pt;
+	}
+span#e14            { /* w_core_sept-2012023009.g... */
+	background      : transparent url(w_core_sept-2012023009.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e13            { /* w_core_sept-2012023008.g... */
+	background      : transparent url(w_core_sept-2012023008.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             :   7.50pt;
+	width           : 109.50pt;
+	height          :  24.00pt;
+	}
+span#e12            { /* index003003.gif */
+	background      : transparent url(index003003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             :  33.75pt;
+	width           : 191.25pt;
+	height          : 579.00pt;
+	}
+img#e11             { /* w_core_sept-2012023006.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+span#e10            { /* current_orchard_project_... */
+	background      : transparent url(current_orchard_project___location_button_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  50.25pt;
+	width           : 164.25pt;
+	height          :  34.50pt;
+	}
+div#e9              { /* <FONT color="#ff0000" si... */
+	position        : absolute;
+	left            : 207.00pt;
+	top             :  95.25pt;
+	width           : 491.25pt;
+	height          : 303.75pt;
+	}
+span#e8             { /* index003002.gif */
+	background      : transparent url(index003002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 198.75pt;
+	top             :  59.25pt;
+	width           : 509.25pt;
+	height          :  21.00pt;
+	}
+div#e7              { /* <FONT color="#ff8040"><S... */
+	position        : absolute;
+	left            : 203.25pt;
+	top             :  62.25pt;
+	width           : 502.50pt;
+	height          :  19.50pt;
+	}
+span#e6             { /* w_core_sept-2012023004.j... */
+	background      : transparent url(w_core_sept-2012023004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  16.50pt;
+	top             :  90.00pt;
+	width           : 174.00pt;
+	height          : 130.50pt;
+	}
+span#e5             { /* index003001.gif */
+	background      : transparent url(index003001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 198.75pt;
+	top             : 588.75pt;
+	width           : 509.25pt;
+	height          :  22.50pt;
+	}
+img#e4              { /* w_core_sept-2012023002.j... */
+	position        : absolute;
+	left            : 472.50pt;
+	top             :  81.75pt;
+	width           : 230.25pt;
+	height          : 154.50pt;
+	}
+span#e3             { /* w_core_sept-2012023001.j... */
+	background      : transparent url(w_core_sept-2012023001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 410.25pt;
+	width           : 208.50pt;
+	height          : 174.75pt;
+	}
+div#e2              { /* The Orchard At The Forks */
+	position        : absolute;
+	left            : 204.00pt;
+	top             : 575.25pt;
+	width           : 193.50pt;
+	height          :  30.75pt;
+	}
+img#e1              { /* w_core_sept-2012020003.g... */
+	position        : absolute;
+	left            : 165.75pt;
+	top             :   6.75pt;
+	width           :  68.25pt;
+	height          :  21.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

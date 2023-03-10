@@ -1,0 +1,217 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc33               { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,745.50pt,6.75pt,0.00pt);
+	}
+.cc34               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc35               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc36               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc37               { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc38               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc39               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc40               { /* Common */
+	border          :   0.00pt none #f0f0f0;
+	}
+.cc41               { /* Common */
+	font            : bold 18pt 'Forte';
+	color           : #000080;
+	text-align      : center;
+	}
+.cc42               { /* Common */
+	border          :   0.00pt none #c0c0c0;
+	}
+span#e23            { /* w_core_sept-2012029017.j... */
+	background      : transparent url(w_core_sept-2012029017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 244.50pt;
+	}
+span#e22            { /* w_core_sept-2012029016.j... */
+	background      : transparent url(w_core_sept-2012029016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 473.25pt;
+	top             : 305.25pt;
+	width           :  88.50pt;
+	height          :  89.25pt;
+	}
+span#e21            { /* w_core_sept-2012029015.g... */
+	background      : transparent url(w_core_sept-2012029015.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 495.00pt;
+	width           : 745.50pt;
+	height          :   6.75pt;
+	}
+div#e20             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 504.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e19             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 523.50pt;
+	width           : 186.00pt;
+	height          :   9.75pt;
+	}
+img#e18             { /* w_core_sept-2012029014.j... */
+	position        : absolute;
+	left            :  86.25pt;
+	top             :   5.25pt;
+	width           :  72.75pt;
+	height          :  27.00pt;
+	}
+img#e17             { /* w_core_sept-2012029013.j... */
+	position        : absolute;
+	left            : 166.50pt;
+	top             :   6.00pt;
+	width           :  66.00pt;
+	height          :  23.25pt;
+	}
+img#e16             { /* w_core_sept-2012029012.j... */
+	position        : absolute;
+	left            : 242.25pt;
+	top             :   8.25pt;
+	width           :  69.00pt;
+	height          :  21.75pt;
+	}
+img#e15             { /* w_core_sept-2012029011.j... */
+	position        : absolute;
+	left            : 320.25pt;
+	top             :   7.50pt;
+	width           : 123.75pt;
+	height          :  21.75pt;
+	}
+img#e14             { /* w_core_sept-2012029010.j... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             :   6.00pt;
+	width           :  71.25pt;
+	height          :  25.50pt;
+	}
+img#e13             { /* w_core_sept-2012029009.j... */
+	position        : absolute;
+	left            : 540.75pt;
+	top             :   0.00pt;
+	width           :  84.00pt;
+	height          :  37.50pt;
+	}
+img#e12             { /* w_core_sept-2012029008.j... */
+	position        : absolute;
+	left            : 637.50pt;
+	top             :   8.25pt;
+	width           :  78.75pt;
+	height          :  23.25pt;
+	}
+span#e11            { /* w_core_sept-2012029007.g... */
+	background      : transparent url(w_core_sept-2012029007.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  36.00pt;
+	width           : 745.50pt;
+	height          :   6.75pt;
+	}
+span#e10            { /* w_core_sept-2012029006.g... */
+	background      : transparent url(w_core_sept-2012029006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  90.75pt;
+	top             :   9.00pt;
+	width           : 644.25pt;
+	height          :  26.25pt;
+	}
+span#e9             { /* w_core_sept-2012029005.g... */
+	background      : transparent url(w_core_sept-2012029005.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  38.25pt;
+	width           : 745.50pt;
+	height          : 458.25pt;
+	}
+img#e8              { /* w_core_sept-2012029004.j... */
+	position        : absolute;
+	left            :  28.50pt;
+	top             :   7.50pt;
+	width           :  49.50pt;
+	height          :  21.00pt;
+	}
+img#e7              { /* btn_donatecc_lg.gif */
+	position        : absolute;
+	left            : 573.00pt;
+	top             : 339.75pt;
+	width           : 110.25pt;
+	height          :  35.25pt;
+	}
+div#e6              { /* 100% OF EVERY DOLLAR IS ... */
+	position        : absolute;
+	left            : 530.25pt;
+	top             : 381.00pt;
+	width           : 212.25pt;
+	height          :  49.50pt;
+	}
+img#e5              { /* fundraiser_basket_of_app... */
+	position        : absolute;
+	left            : 549.00pt;
+	top             :  86.25pt;
+	width           : 165.00pt;
+	height          : 165.00pt;
+	}
+img#e4              { /* w_core_sept-2012029003.j... */
+	position        : absolute;
+	left            : 507.75pt;
+	top             : 213.00pt;
+	width           :  90.75pt;
+	height          :  90.75pt;
+	}
+img#e3              { /* w_core_sept-2012029002.j... */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  71.25pt;
+	width           : 521.25pt;
+	height          : 358.50pt;
+	}
+div#e2              { /* Working Together And Cre... */
+	position        : absolute;
+	left            : 133.50pt;
+	top             :  41.25pt;
+	width           : 470.25pt;
+	height          :  19.50pt;
+	}
+span#e1             { /* w_core_sept-2012029001.j... */
+	background      : transparent url(w_core_sept-2012029001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 523.50pt;
+	top             :  81.75pt;
+	width           :   0.75pt;
+	height          : 414.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

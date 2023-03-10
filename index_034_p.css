@@ -1,0 +1,346 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc326              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc327              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc328              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc329              { /* Common */
+	font            : 18pt 'Berlin Sans FB Demi';
+	color           : #008040;
+	}
+.cc330              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0080c0;
+	}
+.cc331              { /* Common */
+	font            : bold 24pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #008000;
+	text-align      : center;
+	}
+.cc332              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	text-align      : center;
+	}
+.cc333              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc334              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+div#e42             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 456.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e41             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 489.00pt;
+	width           : 186.00pt;
+	height          :  15.00pt;
+	}
+span#e40            { /* w_core_sept-2012007005.g... */
+	background      : transparent url(w_core_sept-2012007005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  34.50pt;
+	top             :  33.75pt;
+	width           : 675.75pt;
+	height          : 413.25pt;
+	}
+span#e39            { /* w_core_sept-2012007004.g... */
+	background      : transparent url(w_core_sept-2012007004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e38            { /* city4.jpg */
+	background      : transparent url(city4.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 364.50pt;
+	top             : 102.75pt;
+	width           : 313.50pt;
+	height          : 318.75pt;
+	}
+div#e37             { /* Potentail Orchard Locati... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             :  53.25pt;
+	width           : 263.25pt;
+	height          :  40.50pt;
+	}
+div#e36             { /* - All Schools/Grounds */
+	position        : absolute;
+	left            :  46.50pt;
+	top             :  93.75pt;
+	width           : 108.00pt;
+	height          :  12.75pt;
+	}
+div#e35             { /* - Assinaboine Park */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 105.75pt;
+	width           : 107.25pt;
+	height          :  12.75pt;
+	}
+div#e34             { /* - Northeast Pioneers Gre... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 117.75pt;
+	width           : 156.00pt;
+	height          :  12.75pt;
+	}
+div#e33             { /* - Niakwa Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 129.75pt;
+	width           :  90.00pt;
+	height          :  12.75pt;
+	}
+div#e32             { /* - Cordite Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 141.75pt;
+	width           :  80.25pt;
+	height          :  12.75pt;
+	}
+div#e31             { /* - Bishop Grandin Greenwa... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 153.75pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e30             { /* - Windsong Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 165.75pt;
+	width           :  92.25pt;
+	height          :  13.50pt;
+	}
+div#e29             { /* - Sturgeon Creek Greenwa... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 177.75pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+div#e28             { /* - Transcona Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 189.75pt;
+	width           :  84.00pt;
+	height          :  12.75pt;
+	}
+div#e27             { /* - Bois-des-Esprits */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 201.75pt;
+	width           :  95.25pt;
+	height          :  12.75pt;
+	}
+div#e26             { /* - Old St. Boniface Route */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 213.75pt;
+	width           : 122.25pt;
+	height          :  13.50pt;
+	}
+div#e25             { /* - South Transcona Commun... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 225.75pt;
+	width           : 171.75pt;
+	height          :  12.75pt;
+	}
+div#e24             { /* - Omand's Creek Greenway */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 237.75pt;
+	width           : 144.00pt;
+	height          :  15.00pt;
+	}
+div#e23             { /* - South St.Vital Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 249.75pt;
+	width           : 108.00pt;
+	height          :  12.75pt;
+	}
+div#e22             { /* - Truro Creek Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 261.75pt;
+	width           : 101.25pt;
+	height          :  12.75pt;
+	}
+div#e21             { /* - Harte Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 273.75pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e20             { /* - Saguimay Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 285.75pt;
+	width           :  93.00pt;
+	height          :  12.75pt;
+	}
+div#e19             { /* - Cornish Path */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 297.75pt;
+	width           :  90.75pt;
+	height          :  12.75pt;
+	}
+div#e18             { /* - Louis Riel Sr. Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 309.75pt;
+	width           : 111.00pt;
+	height          :  12.75pt;
+	}
+div#e17             { /* - */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 321.75pt;
+	width           :   7.50pt;
+	height          :  12.00pt;
+	}
+div#e16             { /* Bois-des-Esprits */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 321.75pt;
+	width           :  96.75pt;
+	height          :  12.75pt;
+	}
+div#e15             { /* - Preston Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 333.75pt;
+	width           :  93.00pt;
+	height          :  12.75pt;
+	}
+div#e14             { /* - Brooks Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 345.75pt;
+	width           :  88.50pt;
+	height          :  12.75pt;
+	}
+div#e13             { /* - Normand Park Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 357.75pt;
+	width           : 111.00pt;
+	height          :  16.50pt;
+	}
+div#e12             { /* - Henteleff Park Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 369.75pt;
+	width           : 107.25pt;
+	height          :  12.75pt;
+	}
+div#e11             { /* - Thundering Bison Trail */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 381.00pt;
+	width           : 123.00pt;
+	height          :  12.75pt;
+	}
+div#e10             { /* - Headingley Grand Trunk... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             : 393.00pt;
+	width           : 145.50pt;
+	height          :  12.75pt;
+	}
+div#e9              { /* Identified Locations */
+	position        : absolute;
+	left            : 405.75pt;
+	top             :  48.00pt;
+	width           : 246.00pt;
+	height          :  27.75pt;
+	}
+div#e8              {
+	position        : absolute;
+	left            : 385.50pt;
+	top             :  75.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e7              {
+	position        : absolute;
+	left            : 385.50pt;
+	top             :  89.25pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 102.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 116.25pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 129.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+span#e3             { /* w_core_sept-2012007003.g... */
+	background      : transparent url(w_core_sept-2012007003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 154.50pt;
+	top             :   7.50pt;
+	width           :  95.25pt;
+	height          :  26.25pt;
+	}
+span#e2             { /* w_core_sept-2012007002.j... */
+	background      : transparent url(w_core_sept-2012007002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 494.25pt;
+	top             :   0.00pt;
+	width           :  84.00pt;
+	height          :  36.00pt;
+	}
+img#e1              { /* w_core_sept-2012007001.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,189 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc399              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc400              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc401              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc402              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc403              { /* Common */
+	font            : 24pt 'MS Sans Serif';
+	color           : #0000ff;
+	}
+.cc404              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc405              { /* Common */
+	clip            : rect(0.00pt,11.25pt,11.25pt,0.00pt);
+	}
+.cc406              { /* Common */
+	font            : 10pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+.cc407              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc408              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc409              { /* Common */
+	font            : 14pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+div#e18             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 173.25pt;
+	top             : 561.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e17             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 591.75pt;
+	width           : 186.00pt;
+	height          :  11.25pt;
+	}
+span#e16            { /* top_header_core1_copy.jp... */
+	background      : transparent url(top_header_core1_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 245.25pt;
+	}
+span#e15            { /* w_core_sept-2012015006.g... */
+	background      : transparent url(w_core_sept-2012015006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 244.50pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e14            { /* w_core_sept-2012015005.g... */
+	background      : transparent url(w_core_sept-2012015005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 256.50pt;
+	width           : 708.00pt;
+	height          : 303.75pt;
+	}
+span#e13            { /* w_core_sept-2012015004.g... */
+	background      : transparent url(w_core_sept-2012015004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 255.75pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e12            { /* sustain_member.jpg */
+	background      : transparent url(sustain_member.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 270.00pt;
+	width           : 117.75pt;
+	height          : 117.00pt;
+	}
+div#e11             { /* <STRONG><U><FONT color=#... */
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 262.50pt;
+	width           : 385.50pt;
+	height          :  35.25pt;
+	}
+div#e10             {
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 290.25pt;
+	width           : 422.25pt;
+	height          :  27.00pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 317.25pt;
+	width           : 422.25pt;
+	height          :  27.00pt;
+	}
+div#e8              { /* Form Offline (under cons... */
+	position        : absolute;
+	left            : 328.50pt;
+	top             : 330.75pt;
+	width           : 248.25pt;
+	height          :  14.25pt;
+	}
+span#e7             { /* w_core_sept-2012009003.j... */
+	background      : transparent url(w_core_sept-2012009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 251.25pt;
+	top             : 307.50pt;
+	width           :  60.00pt;
+	height          :  58.50pt;
+	}
+span#e6             { /* w_core_sept-2012015003.j... */
+	background      : transparent url(w_core_sept-2012015003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 335.25pt;
+	top             : 352.50pt;
+	width           :  11.25pt;
+	height          :  11.25pt;
+	}
+div#e5              { /* Form_Partners_SM.pdf */
+	position        : absolute;
+	left            : 346.50pt;
+	top             : 350.25pt;
+	width           : 105.75pt;
+	height          :  14.25pt;
+	}
+span#e4             { /* w_core_sept-2012015002.g... */
+	background      : transparent url(w_core_sept-2012015002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  87.00pt;
+	top             :   6.75pt;
+	width           : 629.25pt;
+	height          :  25.50pt;
+	}
+img#e3              { /* w_core_sept-2012015001.j... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e2              { /* For Partnership Opportun... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 388.50pt;
+	width           : 161.25pt;
+	height          :  48.00pt;
+	}
+div#e1              { /* beautification  ~  educa... */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 355.50pt;
+	top             :   9.75pt;
+	width           : 385.50pt;
+	height          :  15.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

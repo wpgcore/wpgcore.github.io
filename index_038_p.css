@@ -1,0 +1,361 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc372              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,745.50pt,6.75pt,0.00pt);
+	}
+.cc373              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc374              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc375              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc376              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc377              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc378              { /* Common */
+	border          :   0.00pt none #c0c0c0;
+	}
+.cc379              { /* Common */
+	font            : 12pt 'Times New Roman', Book, Georgia, serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc380              { /* Common */
+	font            : 14pt 'Britannic Bold';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc381              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc382              { /* Common */
+	font            : 12pt 'Segoe Print';
+	color           : #000000;
+	}
+.cc383              { /* Common */
+	font            : bold 12pt 'Segoe Print';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc384              { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc385              { /* Common */
+	font            : 14pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+span#e40            { /* w_core_sept-2012029017.j... */
+	background      : transparent url(w_core_sept-2012029017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 244.50pt;
+	}
+span#e39            { /* w_core_sept-2012032016.j... */
+	background      : transparent url(w_core_sept-2012032016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 473.25pt;
+	top             : 305.25pt;
+	width           :  88.50pt;
+	height          :  89.25pt;
+	}
+span#e38            { /* w_core_sept-2012032015.g... */
+	background      : transparent url(w_core_sept-2012032015.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 495.00pt;
+	width           : 745.50pt;
+	height          :   6.75pt;
+	}
+div#e37             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 504.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e36             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 542.25pt;
+	width           : 186.00pt;
+	height          :  12.00pt;
+	}
+img#e35             { /* w_core_sept-2012032014.j... */
+	position        : absolute;
+	left            :  86.25pt;
+	top             :   5.25pt;
+	width           :  72.75pt;
+	height          :  27.00pt;
+	}
+img#e34             { /* w_core_sept-2012032013.j... */
+	position        : absolute;
+	left            : 166.50pt;
+	top             :   6.00pt;
+	width           :  66.00pt;
+	height          :  23.25pt;
+	}
+img#e33             { /* w_core_sept-2012032012.j... */
+	position        : absolute;
+	left            : 242.25pt;
+	top             :   8.25pt;
+	width           :  69.00pt;
+	height          :  21.75pt;
+	}
+img#e32             { /* w_core_sept-2012032011.j... */
+	position        : absolute;
+	left            : 320.25pt;
+	top             :   7.50pt;
+	width           : 123.75pt;
+	height          :  21.75pt;
+	}
+img#e31             { /* w_core_sept-2012032010.j... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             :   6.00pt;
+	width           :  71.25pt;
+	height          :  25.50pt;
+	}
+img#e30             { /* w_core_sept-2012029009.j... */
+	position        : absolute;
+	left            : 540.75pt;
+	top             :   0.00pt;
+	width           :  84.00pt;
+	height          :  37.50pt;
+	}
+img#e29             { /* w_core_sept-2012032009.j... */
+	position        : absolute;
+	left            : 637.50pt;
+	top             :   8.25pt;
+	width           :  78.75pt;
+	height          :  23.25pt;
+	}
+span#e28            { /* w_core_sept-2012032008.g... */
+	background      : transparent url(w_core_sept-2012032008.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  36.00pt;
+	width           : 745.50pt;
+	height          :   6.75pt;
+	}
+span#e27            { /* w_core_sept-2012032007.g... */
+	background      : transparent url(w_core_sept-2012032007.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  38.25pt;
+	width           : 745.50pt;
+	height          : 458.25pt;
+	}
+span#e26            { /* w_core_sept-2012032006.g... */
+	background      : transparent url(w_core_sept-2012032006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  90.75pt;
+	top             :   9.00pt;
+	width           : 644.25pt;
+	height          :  26.25pt;
+	}
+img#e25             { /* w_core_sept-2012032005.j... */
+	position        : absolute;
+	left            :  28.50pt;
+	top             :   7.50pt;
+	width           :  49.50pt;
+	height          :  21.00pt;
+	}
+span#e24            { /* w_core_sept-2012032004.j... */
+	background      : transparent url(w_core_sept-2012032004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 506.25pt;
+	top             :  48.00pt;
+	width           :   0.75pt;
+	height          : 414.00pt;
+	}
+div#e23             { /* Community Made Organic<B... */
+	position        : absolute;
+	left            : 569.25pt;
+	top             : 456.75pt;
+	width           : 127.50pt;
+	height          :  36.00pt;
+	}
+div#e22             { /* <FONT size=7 face="Brita... */
+	position        : absolute;
+	left            : 212.25pt;
+	top             :  41.25pt;
+	width           : 280.50pt;
+	height          : 119.25pt;
+	}
+div#e21             { /* (Grade 3+ Fundraiser) */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 160.50pt;
+	width           : 242.25pt;
+	height          :  15.00pt;
+	}
+img#e20             { /* index038002.jpg */
+	position        : absolute;
+	left            : 294.75pt;
+	top             :   0.00pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+div#e19             { /* <FONT size=4 face="Arial... */
+	position        : absolute;
+	left            : 511.50pt;
+	top             : 101.25pt;
+	width           : 229.50pt;
+	height          :  70.50pt;
+	}
+div#e18             { /* 1.  INSTRUCTION SHEET */
+	position        : absolute;
+	left            : 510.75pt;
+	top             : 170.25pt;
+	width           : 217.50pt;
+	height          :  13.50pt;
+	}
+div#e17             {
+	position        : absolute;
+	left            : 510.75pt;
+	top             : 183.75pt;
+	width           : 217.50pt;
+	height          :  13.50pt;
+	}
+div#e16             { /* 2.  BUYERS SHEET */
+	position        : absolute;
+	left            : 510.00pt;
+	top             : 195.75pt;
+	width           : 217.50pt;
+	height          :  18.75pt;
+	}
+div#e15             {
+	position        : absolute;
+	left            : 499.50pt;
+	top             : 313.50pt;
+	width           : 217.50pt;
+	height          :  13.50pt;
+	}
+div#e14             { /* 3.  BUYERS INFORMATION S... */
+	position        : absolute;
+	left            : 510.75pt;
+	top             : 224.25pt;
+	width           : 217.50pt;
+	height          :  13.50pt;
+	}
+div#e13             {
+	position        : absolute;
+	left            : 510.75pt;
+	top             : 237.75pt;
+	width           : 217.50pt;
+	height          :  13.50pt;
+	}
+span#e12            { /* fundraiser_basket_of_app... */
+	background      : transparent url(fundraiser_basket_of_apples_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             :  51.00pt;
+	width           : 165.00pt;
+	height          : 165.00pt;
+	}
+div#e11             { /* Have your students paint... */
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 217.50pt;
+	width           : 303.75pt;
+	height          : 109.50pt;
+	}
+div#e10             { /* These students will sell... */
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 327.00pt;
+	width           : 253.50pt;
+	height          :  21.00pt;
+	}
+div#e9              { /* (Family~Friends  ~  Neig... */
+	position        : absolute;
+	left            : 229.50pt;
+	top             : 348.00pt;
+	width           : 254.25pt;
+	height          :  21.00pt;
+	}
+div#e8              { /* <FONT face="Segoe Print"... */
+	position        : absolute;
+	left            : 247.50pt;
+	top             : 369.00pt;
+	width           : 224.25pt;
+	height          :  28.50pt;
+	}
+div#e7              { /* Co-Workers */
+	position        : absolute;
+	left            : 320.25pt;
+	top             : 390.00pt;
+	width           :  72.75pt;
+	height          :  21.00pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 411.00pt;
+	width           : 297.75pt;
+	height          :  13.50pt;
+	}
+span#e5             { /* w_core_sept-2012032002.j... */
+	background      : transparent url(w_core_sept-2012032002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 220.50pt;
+	width           : 195.00pt;
+	height          : 259.50pt;
+	}
+div#e4              { /* Roberto CHABET, Apple Pa... */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 478.50pt;
+	width           : 207.00pt;
+	height          :  18.00pt;
+	}
+span#e3             { /* w_core_sept-2012031003.j... */
+	background      : transparent url(w_core_sept-2012031003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 510.75pt;
+	top             : 321.00pt;
+	width           : 232.50pt;
+	height          : 174.00pt;
+	}
+div#e2              { /* beautification  ~  educa... */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 355.50pt;
+	top             :   9.75pt;
+	width           : 385.50pt;
+	height          :  15.75pt;
+	}
+span#e1             { /* index038001.jpg */
+	background      : transparent url(index038001.jpg) no-repeat top left;
+	visibility      : hidden;
+	position        : absolute;
+	left            : 405.00pt;
+	top             :  95.25pt;
+	width           : 119.25pt;
+	height          : 105.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,438 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc173              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc174              { /* Common */
+	font            : bold 36pt 'Forte';
+	color           : #808000;
+	}
+.cc175              { /* Common */
+	font            : 36pt 'Curlz MT';
+	color           : #ff0000;
+	}
+.cc176              { /* Common */
+	font            : 18pt 'Curlz MT';
+	color           : #0000ff;
+	}
+.cc177              { /* Common */
+	font            : 16pt 'Bodoni MT Condensed';
+	color           : #0000ff;
+	}
+.cc178              { /* Common */
+	font            : italic 18pt 'Bodoni MT Poster Compressed';
+	color           : #000000;
+	}
+.cc179              { /* Common */
+	font            : 12pt 'Bradley Hand ITC';
+	color           : #008080;
+	}
+.cc180              { /* Common */
+	font            : 14pt 'Castellar';
+	color           : #660099;
+	}
+.cc181              { /* Common */
+	font            : 14pt 'Bodoni MT Black';
+	color           : #800080;
+	}
+.cc182              { /* Common */
+	font            : 14pt 'Bodoni MT Black';
+	color           : #ff00ff;
+	}
+.cc183              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc184              { /* Common */
+	font            : 12pt 'Bradley Hand ITC';
+	color           : #ff0000;
+	}
+.cc185              { /* Common */
+	font            : 16pt 'Bodoni MT Condensed';
+	color           : #ff0000;
+	}
+.cc186              { /* Common */
+	border          :   0.00pt none #808080;
+	}
+.cc187              { /* Common */
+	font            : 16pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ff0000;
+	text-align      : center;
+	}
+.cc188              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc189              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc190              { /* Common */
+	font            : 12pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc191              { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc192              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc193              { /* Common */
+	font            : bold 14pt 'Brush Script MT';
+	color           : #800000;
+	}
+.cc194              { /* Common */
+	font            : 18pt 'Bodoni MT Condensed';
+	color           : #800000;
+	}
+.cc195              { /* Common */
+	font            : italic 18pt 'Bodoni MT Black';
+	color           : #000000;
+	}
+.cc196              { /* Common */
+	font            : 18pt 'Bodoni MT Black';
+	color           : #00ff00;
+	}
+.cc197              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,711.75pt,6.75pt,0.00pt);
+	}
+.cc198              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+span#e45            { /* volunteer_hands.jpg */
+	background      : transparent url(volunteer_hands.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 435.00pt;
+	width           : 315.00pt;
+	height          : 182.25pt;
+	}
+span#e44            { /* w_core_sept-2012006009.g... */
+	background      : transparent url(w_core_sept-2012006009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 257.25pt;
+	top             : 223.50pt;
+	width           : 470.25pt;
+	height          : 228.75pt;
+	}
+span#e43            { /* w_core_sept-2012006008.g... */
+	background      : transparent url(w_core_sept-2012006008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e42            { /* w_core_sept-2012006007.g... */
+	background      : transparent url(w_core_sept-2012006007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  18.75pt;
+	top             :  33.00pt;
+	width           : 710.25pt;
+	height          : 193.50pt;
+	}
+div#e41             { /* Food security */
+	position        : absolute;
+	left            : 468.00pt;
+	top             : 174.00pt;
+	width           : 214.50pt;
+	height          :  39.00pt;
+	}
+div#e40             { /* Become Involved */
+	position        : absolute;
+	left            : 333.00pt;
+	top             : 104.25pt;
+	width           : 237.00pt;
+	height          :  47.25pt;
+	}
+div#e39             { /* Volunteer */
+	position        : absolute;
+	left            : 466.50pt;
+	top             :  36.75pt;
+	width           :  69.75pt;
+	height          :  24.00pt;
+	}
+div#e38             {
+	position        : absolute;
+	left            : 466.50pt;
+	top             :  60.75pt;
+	width           :  75.75pt;
+	height          :  18.00pt;
+	}
+div#e37             { /* Leadership */
+	position        : absolute;
+	left            : 653.25pt;
+	top             :  61.50pt;
+	width           :  60.75pt;
+	height          :  21.00pt;
+	}
+div#e36             { /* Resource */
+	position        : absolute;
+	left            : 576.75pt;
+	top             :  54.75pt;
+	width           :  46.50pt;
+	height          :  15.00pt;
+	}
+div#e35             { /* Education */
+	position        : absolute;
+	left            : 438.75pt;
+	top             :  77.25pt;
+	width           : 114.75pt;
+	height          :  21.75pt;
+	}
+div#e34             { /* Human Rights */
+	position        : absolute;
+	left            : 314.25pt;
+	top             : 158.25pt;
+	width           : 151.50pt;
+	height          :  21.75pt;
+	}
+div#e33             { /* Ownership */
+	position        : absolute;
+	left            : 591.00pt;
+	top             : 149.25pt;
+	width           :  85.50pt;
+	height          :  16.50pt;
+	}
+div#e32             { /* Making Friends */
+	position        : absolute;
+	left            : 586.50pt;
+	top             : 101.25pt;
+	width           : 132.00pt;
+	height          :  19.50pt;
+	}
+img#e31             { /* w_core_sept-2012006006.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   0.00pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e30             { /* The Right To Grow Food */
+	position        : absolute;
+	left            : 282.00pt;
+	top             :  72.75pt;
+	width           :  94.50pt;
+	height          :  37.50pt;
+	}
+div#e29             {
+	position        : absolute;
+	left            : 276.00pt;
+	top             :  98.25pt;
+	width           :  68.25pt;
+	height          :  18.00pt;
+	}
+span#e28            { /* w_core_sept-2012006005.g... */
+	background      : transparent url(w_core_sept-2012006005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 395.25pt;
+	top             : 249.00pt;
+	width           : 269.25pt;
+	height          :  50.25pt;
+	}
+div#e27             { /* <A href="index_020.htm">... */
+	position        : absolute;
+	left            : 442.50pt;
+	top             : 259.50pt;
+	width           : 222.00pt;
+	height          :  39.00pt;
+	}
+span#e26            { /* w_core_sept-2012006004.j... */
+	background      : transparent url(w_core_sept-2012006004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 400.50pt;
+	top             : 255.75pt;
+	width           :  38.25pt;
+	height          :  36.75pt;
+	}
+span#e25            { /* w_core_sept-2012006003.g... */
+	background      : transparent url(w_core_sept-2012006003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 328.50pt;
+	top             : 450.75pt;
+	width           : 399.00pt;
+	height          : 166.50pt;
+	}
+div#e24             { /* Home  |  About Us  |  Or... */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 572.25pt;
+	width           : 384.00pt;
+	height          :   9.75pt;
+	}
+div#e23             { /* |  Latest Events  |  Mai... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 582.00pt;
+	width           : 272.25pt;
+	height          :   9.75pt;
+	}
+div#e22             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 435.75pt;
+	top             : 594.75pt;
+	width           : 186.00pt;
+	height          :  15.00pt;
+	}
+div#e21             { /* WinnipegCORE is looking ... */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 326.25pt;
+	width           : 393.00pt;
+	height          :  35.25pt;
+	}
+div#e20             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 354.00pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e19             { /* If you love the outdoor ... */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 367.50pt;
+	width           : 396.00pt;
+	height          :  39.00pt;
+	}
+div#e18             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 394.50pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e17             { /* Let's build this legacy ... */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 408.00pt;
+	width           : 396.00pt;
+	height          :  40.50pt;
+	}
+div#e16             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 435.00pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e15             { /* To show your interest in... */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 448.50pt;
+	width           : 396.00pt;
+	height          :  48.00pt;
+	}
+div#e14             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 489.00pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e13             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 502.50pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e12             {
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 516.00pt;
+	width           : 396.00pt;
+	height          :  13.50pt;
+	}
+div#e11             { /* <LABEL for=e9>E-mail </L... */
+	position        : absolute;
+	left            : 405.75pt;
+	top             : 525.75pt;
+	width           :  44.25pt;
+	height          :  22.50pt;
+	}
+input#e10           { /* Text name="Email" */
+	position        : absolute;
+	left            : 446.25pt;
+	top             : 524.25pt;
+	width           : 120.75pt;
+	height          :  12.00pt;
+	}
+input#e9            { /* Submit value="Send Detai... */
+	position        : absolute;
+	left            : 578.25pt;
+	top             : 524.25pt;
+	width           :  79.50pt;
+	height          :  18.00pt;
+	}
+span#e8             { /* logo_mini_copy.jpg */
+	background      : transparent url(logo_mini_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.75pt;
+	top             :  33.00pt;
+	width           : 225.00pt;
+	height          : 225.00pt;
+	}
+div#e7              { /* Community Ambassadors */
+	position        : absolute;
+	left            : 193.50pt;
+	top             :  98.25pt;
+	width           :  72.00pt;
+	height          :  43.50pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 193.50pt;
+	top             : 131.25pt;
+	width           :  68.25pt;
+	height          :  21.00pt;
+	}
+div#e5              { /* Be An Example */
+	position        : absolute;
+	left            : 253.50pt;
+	top             : 183.00pt;
+	width           : 153.75pt;
+	height          :  21.00pt;
+	}
+div#e4              { /* Building Community */
+	position        : absolute;
+	left            : 198.00pt;
+	top             :  39.00pt;
+	width           : 192.75pt;
+	height          :  21.00pt;
+	}
+span#e3             { /* volunteers_searching.jpg */
+	background      : transparent url(volunteers_searching.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 221.25pt;
+	width           : 240.00pt;
+	height          : 211.50pt;
+	}
+span#e2             { /* w_core_sept-2012006002.g... */
+	background      : transparent url(w_core_sept-2012006002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 219.75pt;
+	width           : 711.75pt;
+	height          :   6.75pt;
+	}
+img#e1              { /* w_core_sept-2012006001.j... */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 438.75pt;
+	width           :  99.00pt;
+	height          :  38.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

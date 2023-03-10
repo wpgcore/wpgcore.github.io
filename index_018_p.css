@@ -1,0 +1,143 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc164              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc165              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc166              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc167              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc168              { /* Common */
+	font            : bold 24pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	text-align      : center;
+	}
+.cc169              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc170              { /* Common */
+	clip            : rect(0.00pt,11.25pt,11.25pt,0.00pt);
+	}
+.cc171              { /* Common */
+	font            : 10pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+.cc172              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+div#e13             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 171.75pt;
+	top             : 480.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e12             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 511.50pt;
+	width           : 186.00pt;
+	height          :  16.50pt;
+	}
+span#e11            { /* top_header_core1_copy.jp... */
+	background      : transparent url(top_header_core1_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 245.25pt;
+	}
+span#e10            { /* w_core_sept-2012013005.g... */
+	background      : transparent url(w_core_sept-2012013005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 244.50pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e9             { /* w_core_sept-2012013004.g... */
+	background      : transparent url(w_core_sept-2012013004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 256.50pt;
+	width           : 707.25pt;
+	height          : 221.25pt;
+	}
+span#e8             { /* menubar_build_my_orchard... */
+	background      : transparent url(menubar_build_my_orchards.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+div#e7              { /* Freqently Asked Question... */
+	position        : absolute;
+	left            : 216.75pt;
+	top             : 270.75pt;
+	width           : 312.75pt;
+	height          :  27.75pt;
+	}
+div#e6              { /* Currently Offline */
+	position        : absolute;
+	left            : 340.50pt;
+	top             : 374.25pt;
+	width           : 132.00pt;
+	height          :  15.00pt;
+	}
+span#e5             { /* w_core_sept-2012009003.j... */
+	background      : transparent url(w_core_sept-2012009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 351.00pt;
+	width           :  60.00pt;
+	height          :  58.50pt;
+	}
+span#e4             { /* w_core_sept-2012013003.j... */
+	background      : transparent url(w_core_sept-2012013003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 347.25pt;
+	top             : 396.00pt;
+	width           :  11.25pt;
+	height          :  11.25pt;
+	}
+div#e3              { /* faq.pdf */
+	position        : absolute;
+	left            : 358.50pt;
+	top             : 393.75pt;
+	width           : 105.75pt;
+	height          :  14.25pt;
+	}
+img#e2              { /* w_core_sept-2012013002.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+img#e1              { /* w_core_sept-2012013001.g... */
+	position        : absolute;
+	left            : 319.50pt;
+	top             :   6.00pt;
+	width           : 126.75pt;
+	height          :  25.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

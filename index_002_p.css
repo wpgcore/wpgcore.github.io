@@ -1,0 +1,137 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc17               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc18               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc19               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc20               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc21               { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc22               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #ffffff;
+	}
+.cc23               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc24               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+span#e13            { /* w_core_sept-2012021011.g... */
+	background      : transparent url(w_core_sept-2012021011.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.75pt;
+	top             :  39.00pt;
+	width           : 691.50pt;
+	height          : 329.25pt;
+	}
+div#e12             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 161.25pt;
+	top             : 372.00pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e11             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 399.00pt;
+	width           : 186.00pt;
+	height          :  15.75pt;
+	}
+span#e10            { /* w_core_sept-2012021008.g... */
+	background      : transparent url(w_core_sept-2012021008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e9             { /* w_core_sept-2012021007.g... */
+	background      : transparent url(w_core_sept-2012021007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             :   7.50pt;
+	width           : 109.50pt;
+	height          :  24.00pt;
+	}
+span#e8             { /* w_core_sept-2012021006.g... */
+	background      : transparent url(w_core_sept-2012021006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             :  33.75pt;
+	width           : 185.25pt;
+	height          :  63.75pt;
+	}
+img#e7              { /* w_core_sept-2012021004.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+img#e6              { /* forkslogo.jpg */
+	position        : absolute;
+	left            :  51.00pt;
+	top             : 128.25pt;
+	width           :  96.00pt;
+	height          :  61.50pt;
+	}
+span#e5             { /* partnerships.jpg */
+	background      : transparent url(partnerships.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  21.00pt;
+	top             :  49.50pt;
+	width           : 164.25pt;
+	height          :  34.50pt;
+	}
+div#e4              { /* This Page Is Currently U... */
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 182.25pt;
+	width           : 168.00pt;
+	height          :  22.50pt;
+	}
+div#e3              { /* To Be Announced Shortly.... */
+	position        : absolute;
+	left            : 336.00pt;
+	top             : 171.75pt;
+	width           : 105.75pt;
+	height          :  30.75pt;
+	}
+img#e2              { /* index002001.gif */
+	position        : absolute;
+	left            : 154.50pt;
+	top             :  65.25pt;
+	width           : 548.25pt;
+	height          : 300.00pt;
+	}
+div#e1              { /* To Be Announced Shortly.... */
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 117.75pt;
+	width           : 105.75pt;
+	height          :  30.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

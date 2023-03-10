@@ -1,0 +1,172 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc100              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	text-align      : center;
+	}
+.cc101              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+.cc93               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc94               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc95               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc96               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc97               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc98               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc99               { /* Common */
+	font            : bold 24pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #008000;
+	text-align      : center;
+	}
+div#e17             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 171.75pt;
+	top             : 392.25pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e16             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 411.75pt;
+	width           : 186.00pt;
+	height          :   9.75pt;
+	}
+span#e15            { /* w_core_sept-2012025006.g... */
+	background      : transparent url(w_core_sept-2012025006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  34.50pt;
+	top             :  33.75pt;
+	width           : 675.75pt;
+	height          : 356.25pt;
+	}
+span#e14            { /* w_core_sept-2012025005.g... */
+	background      : transparent url(w_core_sept-2012025005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e13            { /* city4.jpg */
+	background      : transparent url(city4.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 373.50pt;
+	top             :  68.25pt;
+	width           : 313.50pt;
+	height          : 318.75pt;
+	}
+span#e12            { /* w_core_sept-2012025004.j... */
+	background      : transparent url(w_core_sept-2012025004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 483.75pt;
+	top             : 153.75pt;
+	width           :  73.50pt;
+	height          :  72.00pt;
+	}
+span#e11            { /* w_core_sept-2012025003.g... */
+	background      : transparent url(w_core_sept-2012025003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             :  42.75pt;
+	width           : 292.50pt;
+	height          : 344.25pt;
+	}
+div#e10             { /* <FONT face="Berlin Sans ... */
+	position        : absolute;
+	left            :  47.25pt;
+	top             :  44.25pt;
+	width           : 213.00pt;
+	height          :  27.75pt;
+	}
+div#e9              { /* 001 The Forks Downtown (... */
+	position        : absolute;
+	left            :  48.00pt;
+	top             :  85.50pt;
+	width           : 285.75pt;
+	height          :  17.25pt;
+	}
+img#e8              { /* w_core_sept-2012025002.g... */
+	position        : absolute;
+	left            : 166.50pt;
+	top             :   6.75pt;
+	width           :  66.00pt;
+	height          :  25.50pt;
+	}
+div#e7              { /* Orchards Downtown */
+	position        : absolute;
+	left            : 403.50pt;
+	top             :  39.00pt;
+	width           : 252.75pt;
+	height          :  27.75pt;
+	}
+div#e6              {
+	position        : absolute;
+	left            : 386.25pt;
+	top             :  66.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 386.25pt;
+	top             :  93.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            : 386.25pt;
+	top             : 107.25pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+div#e3              {
+	position        : absolute;
+	left            : 386.25pt;
+	top             : 120.75pt;
+	width           : 285.00pt;
+	height          :  13.50pt;
+	}
+img#e2              { /* w_core_sept-2012025001.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e1              { /* <DIV>002</DIV>  \<DIV>&n... */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 110.25pt;
+	width           : 276.75pt;
+	height          : 222.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

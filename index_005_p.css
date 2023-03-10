@@ -1,0 +1,154 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc43               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc44               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc45               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc46               { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc47               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc48               { /* Common */
+	font            : 16pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc49               { /* Common */
+	font            : bold 12pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+.cc50               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+span#e15            { /* w_core_sept-2012002006.g... */
+	background      : transparent url(w_core_sept-2012002006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 257.25pt;
+	width           : 157.50pt;
+	height          : 314.25pt;
+	}
+div#e14             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 271.50pt;
+	top             :1018.50pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e13             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 385.50pt;
+	top             :1049.25pt;
+	width           : 186.00pt;
+	height          :  12.75pt;
+	}
+span#e12            { /* top_header_core1_copy.jp... */
+	background      : transparent url(top_header_core1_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.75pt;
+	height          : 245.25pt;
+	}
+span#e11            { /* w_core_sept-2012002005.g... */
+	background      : transparent url(w_core_sept-2012002005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 244.50pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+span#e10            { /* w_core_sept-2012002004.g... */
+	background      : transparent url(w_core_sept-2012002004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 165.75pt;
+	top             :   7.50pt;
+	width           : 553.50pt;
+	height          :  22.50pt;
+	}
+div#e9              { /* About Us */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 267.00pt;
+	width           : 120.00pt;
+	height          :  18.00pt;
+	}
+span#e8             { /* index005002.gif */
+	background      : transparent url(index005002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 257.25pt;
+	width           : 511.50pt;
+	height          : 752.25pt;
+	}
+div#e7              { /* More about the founders */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 299.25pt;
+	width           : 141.75pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* Board Members */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 328.50pt;
+	width           :  92.25pt;
+	height          :  14.25pt;
+	}
+div#e5              { /* Youth Ambassador Members */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 357.75pt;
+	width           : 146.25pt;
+	height          :  36.75pt;
+	}
+span#e4             { /* w_core_sept-2012002002.j... */
+	background      : transparent url(w_core_sept-2012002002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 414.00pt;
+	width           : 156.00pt;
+	height          : 158.25pt;
+	}
+img#e3              { /* w_core_sept-2012002001.j... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e2              { /* <DIV>  \<DIV>Winnipeg CO... */
+	position        : absolute;
+	left            : 229.50pt;
+	top             : 269.25pt;
+	width           : 487.50pt;
+	height          : 673.50pt;
+	}
+span#e1             { /* index005001.gif */
+	background      : transparent url(index005001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 327.75pt;
+	top             : 486.00pt;
+	width           :  18.00pt;
+	height          :  18.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

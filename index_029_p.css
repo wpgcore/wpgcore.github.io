@@ -1,0 +1,191 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc275              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc276              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc277              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc278              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc279              { /* Common */
+	font            : bold 12pt 'Comic Sans MS', cursive;
+	color           : #000000;
+	}
+.cc280              { /* Common */
+	font            : 12pt 'Comic Sans MS', cursive;
+	color           : #000000;
+	}
+.cc281              { /* Common */
+	font            : 16pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc282              { /* Common */
+	font            : bold 14pt 'Comic Sans MS', cursive;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc283              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+div#e20             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 438.75pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e19             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 279.00pt;
+	top             : 473.25pt;
+	width           : 186.00pt;
+	height          :  15.00pt;
+	}
+span#e18            { /* w_core_sept-2012038007.g... */
+	background      : transparent url(w_core_sept-2012038007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  13.50pt;
+	top             :  37.50pt;
+	width           : 715.50pt;
+	height          : 399.00pt;
+	}
+span#e17            { /* w_core_sept-2012038006.g... */
+	background      : transparent url(w_core_sept-2012038006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+img#e16             { /* w_core_sept-2012038005.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+img#e15             { /* w_core_sept-2012038004.g... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             :   7.50pt;
+	width           :  72.75pt;
+	height          :  22.50pt;
+	}
+span#e14            { /* w_core_sept-2012037002.j... */
+	background      : transparent url(w_core_sept-2012037002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 219.75pt;
+	width           : 279.00pt;
+	height          : 209.25pt;
+	}
+div#e13             { /* Roles: */
+	position        : absolute;
+	left            : 297.00pt;
+	top             :  64.50pt;
+	width           :  36.00pt;
+	height          :  17.25pt;
+	}
+div#e12             { /* The Board is responsible... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             :  81.75pt;
+	width           : 430.50pt;
+	height          : 113.25pt;
+	}
+div#e11             { /* Responsibilities: */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 201.00pt;
+	width           :  93.00pt;
+	height          :  17.25pt;
+	}
+div#e10             { /* &nbsp;&nbsp;Governing bo... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 218.25pt;
+	width           : 426.75pt;
+	height          :  36.75pt;
+	}
+div#e9              { /* -Purpose, by establishin... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 235.50pt;
+	width           : 432.75pt;
+	height          :  36.75pt;
+	}
+div#e8              { /* -Continuity, by providin... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 270.00pt;
+	width           : 427.50pt;
+	height          :  36.75pt;
+	}
+div#e7              { /* -Progress, by setting th... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 304.50pt;
+	width           : 427.50pt;
+	height          :  36.75pt;
+	}
+div#e6              { /* -Identity, by securing t... */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 339.00pt;
+	width           : 427.50pt;
+	height          :  43.50pt;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 357.75pt;
+	width           : 414.00pt;
+	height          :  20.25pt;
+	}
+span#e4             { /* w_core_sept-2012038003.j... */
+	background      : transparent url(w_core_sept-2012038003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  46.50pt;
+	top             :  54.00pt;
+	width           : 229.50pt;
+	height          : 174.00pt;
+	}
+div#e3              { /* Board Roles, Responsibil... */
+	position        : absolute;
+	left            : 296.25pt;
+	top             :  43.50pt;
+	width           : 430.50pt;
+	height          :  18.75pt;
+	}
+img#e2              { /* w_core_sept-2012038002.j... */
+	position        : absolute;
+	left            : 294.75pt;
+	top             :   0.00pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+span#e1             { /* w_core_sept-2012038001.g... */
+	background      : transparent url(w_core_sept-2012038001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 444.75pt;
+	top             :   8.25pt;
+	width           :  96.00pt;
+	height          :  18.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

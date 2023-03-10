@@ -1,0 +1,273 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc226              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc227              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc228              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc229              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc230              { /* Common */
+	border          :   0.00pt none #0000ff;
+	clip            : rect(0.00pt,708.00pt,4.50pt,0.00pt);
+	}
+.cc231              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc232              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc233              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+span#e32            { /* w_core_sept-2012042008.g... */
+	background      : transparent url(w_core_sept-2012042008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  38.25pt;
+	width           : 157.50pt;
+	height          : 411.00pt;
+	}
+div#e31             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 249.75pt;
+	top             : 451.50pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e30             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 358.50pt;
+	top             : 485.25pt;
+	width           : 186.00pt;
+	height          :  15.75pt;
+	}
+span#e29            { /* w_core_sept-2012042007.g... */
+	background      : transparent url(w_core_sept-2012042007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 181.50pt;
+	top             :  36.00pt;
+	width           : 540.75pt;
+	height          : 413.25pt;
+	}
+span#e28            { /* w_core_sept-2012042006.g... */
+	background      : transparent url(w_core_sept-2012042006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :   0.00pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+img#e27             { /* w_core_sept-2012042005.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+span#e26            { /* w_core_sept-2012001016.j... */
+	background      : transparent url(w_core_sept-2012001016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 143.25pt;
+	top             :  39.00pt;
+	width           :  33.00pt;
+	height          :  30.00pt;
+	}
+img#e25             { /* w_core_sept-2012042004.g... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             :   7.50pt;
+	width           :  72.75pt;
+	height          :  22.50pt;
+	}
+span#e24            { /* w_core_sept-2012042003.g... */
+	background      : transparent url(w_core_sept-2012042003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  27.00pt;
+	width           : 708.00pt;
+	height          :   4.50pt;
+	}
+div#e23             { /* Orchard Maintenance Coor... */
+	position        : absolute;
+	left            :  27.00pt;
+	top             :  68.25pt;
+	width           : 126.75pt;
+	height          :  32.25pt;
+	}
+div#e22             { /* (Volunteer) */
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 100.50pt;
+	width           :  64.50pt;
+	height          :  14.25pt;
+	}
+div#e21             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 124.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e20             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 138.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e19             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 151.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e18             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 165.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e17             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 178.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e16             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 192.00pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e15             {
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 205.50pt;
+	width           : 144.00pt;
+	height          :  13.50pt;
+	}
+div#e14             { /* <FONT size="4"><STRONG>O... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             :  42.75pt;
+	width           : 537.00pt;
+	height          :  75.00pt;
+	}
+div#e13             { /* <DIV><STRONG>Specific du... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 126.00pt;
+	width           : 392.25pt;
+	height          :  35.25pt;
+	}
+div#e12             { /* - Suggestions over impro... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 153.00pt;
+	width           : 534.75pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* - Providing a report on ... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 167.25pt;
+	width           : 534.75pt;
+	height          :  18.00pt;
+	}
+div#e10             { /* <DIV><STRONG>Qualities:<... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 194.25pt;
+	width           : 520.50pt;
+	height          :  35.25pt;
+	}
+div#e9              { /* - Must know grafting tec... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 222.00pt;
+	width           : 534.75pt;
+	height          :  13.50pt;
+	}
+div#e8              { /* <DIV>&nbsp;&nbsp; requir... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 235.50pt;
+	width           : 565.50pt;
+	height          :  48.00pt;
+	}
+div#e7              { /* - Educate and pass down ... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 264.00pt;
+	width           : 534.75pt;
+	height          :  19.50pt;
+	}
+div#e6              { /* - Participating in board... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 279.00pt;
+	width           : 539.25pt;
+	height          :  21.00pt;
+	}
+span#e5             { /* w_core_sept-2012039006.j... */
+	background      : transparent url(w_core_sept-2012039006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 188.25pt;
+	width           : 154.50pt;
+	height          : 116.25pt;
+	}
+span#e4             { /* w_core_sept-2012039003.j... */
+	background      : transparent url(w_core_sept-2012039003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 141.75pt;
+	width           : 102.00pt;
+	height          :  76.50pt;
+	}
+img#e3              { /* w_core_sept-2012042002.j... */
+	position        : absolute;
+	left            : 180.00pt;
+	top             :   1.50pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+span#e2             { /* w_core_sept-2012042001.g... */
+	background      : transparent url(w_core_sept-2012042001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 444.75pt;
+	top             :   8.25pt;
+	width           :  96.00pt;
+	height          :  18.75pt;
+	}
+img#e1              { /* email_us_button.gif */
+	position        : absolute;
+	left            : 396.75pt;
+	top             : 406.50pt;
+	width           : 119.25pt;
+	height          :  40.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

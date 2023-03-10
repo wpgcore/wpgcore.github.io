@@ -1,0 +1,73 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc118              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc119              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc120              { /* Common */
+	font            : 20pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #ffffff;
+	}
+span#e7             { /* menubar_copy.jpg */
+	background      : transparent url(menubar_copy.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e6             { /* w_core_sept-2012019005.g... */
+	background      : transparent url(w_core_sept-2012019005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 148.50pt;
+	top             :   7.50pt;
+	width           : 103.50pt;
+	height          :  27.75pt;
+	}
+img#e5              { /* w_core_sept-2012019004.j... */
+	position        : absolute;
+	left            : 112.50pt;
+	top             :   1.50pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+span#e4             { /* dtn-streets.gif */
+	background      : transparent url(dtn-streets.gif) no-repeat top left;
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 495.75pt;
+	width           : 337.50pt;
+	height          : 279.75pt;
+	}
+img#e3              { /* w_core_sept-2012019002.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+span#e2             { /* w_core_sept-2012019001.j... */
+	background      : transparent url(w_core_sept-2012019001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.00pt;
+	top             :  48.00pt;
+	width           : 532.50pt;
+	height          : 446.25pt;
+	}
+div#e1              { /* Location Of Orchard (DRA... */
+	position        : absolute;
+	left            : 264.75pt;
+	top             : 348.75pt;
+	width           : 240.00pt;
+	height          :  87.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/

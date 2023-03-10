@@ -1,0 +1,141 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc410              { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc411              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc412              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	text-align      : center;
+	}
+.cc413              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc414              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc415              { /* Common */
+	clip            : rect(0.00pt,11.25pt,11.25pt,0.00pt);
+	}
+.cc416              { /* Common */
+	font            : 10pt 'Helvetica', 'Lucida Grande', Arial, sans-serif;
+	color           : #0000ff;
+	}
+.cc417              { /* Common */
+	font            : 14pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+span#e13            { /* w_core_sept-2012024006.g... */
+	background      : transparent url(w_core_sept-2012024006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.75pt;
+	top             :  41.25pt;
+	width           : 691.50pt;
+	height          : 259.50pt;
+	}
+div#e12             { /* <FONT color=#c0c0c0 size... */
+	position        : absolute;
+	left            : 162.00pt;
+	top             : 302.25pt;
+	width           : 411.75pt;
+	height          :  27.00pt;
+	}
+div#e11             { /* Copyright Winnipeg CORE ... */
+	position        : absolute;
+	left            : 270.75pt;
+	top             : 339.75pt;
+	width           : 186.00pt;
+	height          :  15.00pt;
+	}
+span#e10            { /* w_core_sept-2012024005.g... */
+	background      : transparent url(w_core_sept-2012024005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   0.75pt;
+	width           : 708.00pt;
+	height          :  38.25pt;
+	}
+span#e9             { /* w_core_sept-2012024004.g... */
+	background      : transparent url(w_core_sept-2012024004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             :   7.50pt;
+	width           : 109.50pt;
+	height          :  24.00pt;
+	}
+span#e8             { /* w_core_sept-2012024003.g... */
+	background      : transparent url(w_core_sept-2012024003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             :  33.75pt;
+	width           : 185.25pt;
+	height          :  63.75pt;
+	}
+span#e7             { /* news.jpg */
+	background      : transparent url(news.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  48.75pt;
+	width           : 165.00pt;
+	height          :  35.25pt;
+	}
+div#e6              { /* Currently Offline Please... */
+	position        : absolute;
+	left            : 343.50pt;
+	top             : 152.25pt;
+	width           : 248.25pt;
+	height          :  26.25pt;
+	}
+span#e5             { /* w_core_sept-2012009003.j... */
+	background      : transparent url(w_core_sept-2012009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 266.25pt;
+	top             : 129.00pt;
+	width           :  60.00pt;
+	height          :  58.50pt;
+	}
+span#e4             { /* w_core_sept-2012024002.j... */
+	background      : transparent url(w_core_sept-2012024002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 350.25pt;
+	top             : 174.00pt;
+	width           :  11.25pt;
+	height          :  11.25pt;
+	}
+div#e3              { /* News.pdf */
+	position        : absolute;
+	left            : 361.50pt;
+	top             : 171.75pt;
+	width           : 105.75pt;
+	height          :  14.25pt;
+	}
+img#e2              { /* w_core_sept-2012024001.g... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :   4.50pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e1              { /* beautification  ~  educa... */
+	visibility      : hidden;
+	position        : absolute;
+	left            : 355.50pt;
+	top             :   9.75pt;
+	width           : 385.50pt;
+	height          :  15.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000000;
+	}
+
+
+
+/*--- EndOfFile ---*/
